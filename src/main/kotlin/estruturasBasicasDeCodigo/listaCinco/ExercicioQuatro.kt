@@ -1,6 +1,6 @@
-package listaCinco
+package estruturasBasicasDeCodigo.listaCinco
 
-import listaUm.capturarDados
+import estruturasBasicasDeCodigo.listaUm.capturarDados
 
 fun main(){
     val qtdNumeros = capturarDados("Quantos números irá inserir?").nextInt()

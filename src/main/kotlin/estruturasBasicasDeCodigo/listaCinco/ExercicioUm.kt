@@ -1,4 +1,4 @@
-package listaCinco
+package estruturasBasicasDeCodigo.listaCinco
 
 fun main (){
     var contador = 1

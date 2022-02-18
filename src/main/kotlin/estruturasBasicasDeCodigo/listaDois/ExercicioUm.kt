@@ -1,4 +1,4 @@
-package listaDois
+package estruturasBasicasDeCodigo.listaDois
 
 import java.util.*
 

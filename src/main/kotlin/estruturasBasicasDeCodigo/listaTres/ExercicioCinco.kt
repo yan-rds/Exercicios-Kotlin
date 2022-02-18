@@ -1,6 +1,6 @@
-package listaTres
+package estruturasBasicasDeCodigo.listaTres
 
-import listaUm.capturarDados
+import estruturasBasicasDeCodigo.listaUm.capturarDados
 
 fun main(){
     val numero = capturarDados("Insira um número inteiro entre 1 e 7").nextInt()

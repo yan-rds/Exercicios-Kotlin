@@ -1,6 +1,6 @@
 package desafios
 
-import listaUm.capturarDados
+import estruturasBasicasDeCodigo.listaUm.capturarDados
 import java.lang.RuntimeException
 
 fun main(){

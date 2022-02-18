@@ -1,6 +1,6 @@
-package listaCinco
+package estruturasBasicasDeCodigo.listaCinco
 
-import listaUm.capturarDados
+import estruturasBasicasDeCodigo.listaUm.capturarDados
 
 fun main(){
     var contador = 1

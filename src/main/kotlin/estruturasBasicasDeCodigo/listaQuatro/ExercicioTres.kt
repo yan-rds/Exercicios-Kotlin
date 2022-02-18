@@ -1,6 +1,6 @@
-package listaQuatro
+package estruturasBasicasDeCodigo.listaQuatro
 
-import listaUm.capturarDados
+import estruturasBasicasDeCodigo.listaUm.capturarDados
 import java.util.stream.Collectors
 
 fun main (){
